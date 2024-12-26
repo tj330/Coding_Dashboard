@@ -8,11 +8,17 @@ Coding Dashboard is a productivity tool designed to help developers stay focused
 - Implements the Pomodoro technique to help you work in focused interva
 - Each section consists of 25 minutes
 - You can start back after completion of each section
-
 - You can add the various coding tasks to complete
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 - React
 -  HTML
 -   CSS
 -    JavaScript
+
+---
+
+## 🖥️ Demo
+[Live Demo](https://coding-dashboard-three.vercel.app/)

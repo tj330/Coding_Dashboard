@@ -1,8 +1,18 @@
-# React + Vite
+# Coding Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Coding Dashboard is a productivity tool designed to help developers stay focused and organized. It combines a Pomodoro timer with a tasks list to optimize your workflow and boost productivity.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🎯 Pomodoro Timer
+- Implements the Pomodoro technique to help you work in focused interva
+- Each section consists of 25 minutes
+- You can start back after completion of each section
+
+- You can add the various coding tasks to complete
+
+## Technologies Used
+- React
+-  HTML
+-   CSS
+-    JavaScript
